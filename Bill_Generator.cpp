@@ -1,4 +1,4 @@
-/* Input from barcode reader, then handle file storage.
+/* Feature yet to be added -> Input from barcode reader, then handle file storage.
    Add mall name, and generate a sample bill. */
 
 #include<iostream>
